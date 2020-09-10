@@ -1,1 +1,3 @@
-"**This file is 0x00. Shell, basics **"
+#ABOUT THIS PROYECT
+- 1- shell, basics
+- 2. Shell, permissions
