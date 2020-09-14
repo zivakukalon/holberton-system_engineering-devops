@@ -1,0 +1,18 @@
+#ABOUT THIS PROYECT
+- 0. alias
+- 1. hello user
+- 2. path to success
+- 3. path
+- 4. global variables
+- 5. local variables
+- 6. local variable
+- 7. global variable
+- 8. human power
+- 9. divide and..
+- 10. love is ...
+- 11. 10 types of people
+- 12. combination
+- 13. floats
+- 14. decimal to ..
+- 15. ls * .c
+- 16. hard and symbolic linky
